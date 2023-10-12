@@ -1,6 +1,6 @@
 # aTomic Lab :microscope: :computer:
 
-Welcome to **aTomic Lab**! We specialize in the confluence of software and systems immunology. Our aim is to pioneer advancements in understanding immune responses by blending cutting-edge computational techniques with profound biological insights.
+Welcome to **aTomic Lab**! We specialize in the confluence of software and systems immunology. Our aim is to understanding immune responses by blending computational techniques with biological insights.
 
 ---
 
@@ -23,7 +23,7 @@ Welcome to **aTomic Lab**! We specialize in the confluence of software and syste
 
 ### :book: About
 
-At aTomic Lab, we believe in the power of interdisciplinary research. Marrying biology with computation, our repositories are a testament to our dedication in uncovering the mysteries of the immune system. Whether you're a fellow scientist, a developer, or just an enthusiast, there's something here for everyone. Dive in!
+At aTomic Lab, we believe in the power of interdisciplinary research. Marrying biology with computation, our repositories are a testament in uncovering the mysteries of the immune system. Whether you're a fellow scientist, a developer, or just an enthusiast, Dive in!
 
 ---
 
